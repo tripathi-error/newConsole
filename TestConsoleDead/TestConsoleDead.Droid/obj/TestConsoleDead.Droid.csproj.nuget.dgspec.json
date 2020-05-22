@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nineleaps-user\\source\\repos\\TestConsoleDead\\TestConsoleDead.Droid\\TestConsoleDead.Droid.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nineleaps-user\\source\\repos\\TestConsoleDead\\TestConsoleDead.Droid\\TestConsoleDead.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nineleaps-user\\source\\repos\\TestConsoleDead\\TestConsoleDead.Droid\\TestConsoleDead.Droid.csproj",
+        "projectName": "TestConsoleDead.Droid",
+        "projectPath": "C:\\Users\\Nineleaps-user\\source\\repos\\TestConsoleDead\\TestConsoleDead.Droid\\TestConsoleDead.Droid.csproj",
+        "packagesPath": "C:\\Users\\Nineleaps-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nineleaps-user\\source\\repos\\TestConsoleDead\\TestConsoleDead.Droid\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nineleaps-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://blue-nuget.corp.membersuite.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Uno.UniversalImageLoader": {
+              "target": "Package",
+              "version": "[1.9.32, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

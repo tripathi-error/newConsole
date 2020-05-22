@@ -1,0 +1,1 @@
+C:\Users\Nineleaps-user\source\repos\TestConsoleDead\TestConsoleDead.UWP\TestConsoleDead.UWP.csproj;x86

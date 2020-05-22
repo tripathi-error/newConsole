@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nineleaps-user\\source\\repos\\newConsole\\TestConsoleDead\\TestConsoleDead.UWP\\TestConsoleDead.UWP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nineleaps-user\\source\\repos\\newConsole\\TestConsoleDead\\TestConsoleDead.UWP\\TestConsoleDead.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nineleaps-user\\source\\repos\\newConsole\\TestConsoleDead\\TestConsoleDead.UWP\\TestConsoleDead.UWP.csproj",
+        "projectName": "TestConsoleDead.UWP",
+        "projectPath": "C:\\Users\\Nineleaps-user\\source\\repos\\newConsole\\TestConsoleDead\\TestConsoleDead.UWP\\TestConsoleDead.UWP.csproj",
+        "packagesPath": "C:\\Users\\Nineleaps-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nineleaps-user\\source\\repos\\newConsole\\TestConsoleDead\\TestConsoleDead.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nineleaps-user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://blue-nuget.corp.membersuite.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "Uno.Core": {
+              "target": "Package",
+              "version": "[1.29.0-dev.93, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
